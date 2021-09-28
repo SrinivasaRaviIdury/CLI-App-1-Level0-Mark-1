@@ -29,24 +29,24 @@ function play(question, answer) {
 
 quizQuestions = [
   {
-    question: 'What is Capital Of India ',
-    answer: 'Delhi',
+    question: 'What is my first name ',
+    answer: 'Srinivasa',
   },
   {
-    question: 'What is National Bird Of India ',
-    answer: 'Peacock',
+    question: 'Where do I live Present ',
+    answer: 'Hyderabad',
   },
   {
-    question: 'What is National Animal Of India ',
-    answer: 'Tiger',
+    question: 'What is my native village name ',
+    answer: 'Dommeru',
   },
   {
-    question: 'Who is Current Prime Minister Of India ',
-    answer: 'Narendra Modi',
+    question: 'Where is my native village located (state) ',
+    answer: 'Andhra Pradesh',
   },
   {
-    question: 'Where is Supreme Court Located India ',
-    answer: 'Delhi',
+    question: 'What is my Education  Qualification',
+    answer: 'B.Tech',
   },
 ];
 
