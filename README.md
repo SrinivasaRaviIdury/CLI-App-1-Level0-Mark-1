@@ -2,7 +2,7 @@
 
 ## About Myself Ravi Ahlad
 
-- Ask to input name
+- Asks to input name
 - Questions about Myself checks user answers with original answers
 - If both matches score will increase else score will decrease
 
